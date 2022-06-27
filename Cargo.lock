@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "country-quiz"
+name = "country-quizz"
 version = "0.1.0"
 dependencies = [
  "emojis",
